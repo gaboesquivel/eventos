@@ -3,6 +3,10 @@
 ## Bolivia
 
 ## Chile
+* [StarTechConf](http://www.startechconf.com/)  [@startechconf](https://twitter.com/startechconf)
+* [JS Meetup](http://www.meetup.com/dynlangchile/events/221341220/)
+* [BeerJS](http://www.beerjs.cl/)
+* [hashtagchile](http://www.hashtagchile.com/) [@hashtagchile](https://twitter.com/hashtagchile)
 
 ## Colombia
 
