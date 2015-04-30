@@ -1,4 +1,10 @@
 ## Argentina
+* [BANode.js](https://www.meetup.com/BANode-Meetup/) Comunidad de Node.js en Buenos Aire
+* [Meetup.js](https://www.meetup.com/Meetup-js/) Comunidad de JavaScript para compartir conocimientos del lenguaje y frameworks
+* [Node.js Argentina](https://www.meetup.com/NodeJS-Argentina/) Comunidad y eventos Node.js
+* [JSConf Argentina](https://www.jsconfar.com/) JSConf en Argentina
+* [BAFrontend](https://www.meetup.com/BAFrontend/) Front-End User Group en Buenos Aires
+* [Beer.js Buenos Aires](https://www.meetup.com/Beer-js-Buenos-Aires/) Dónde se encuentra la cerveza con JavaScript
 
 ## Bolivia
 
