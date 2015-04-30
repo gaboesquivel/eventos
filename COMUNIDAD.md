@@ -26,6 +26,9 @@
 
 ## Guatemala
 
+* [JS.gt](https://www.facebook.com/jspuntogt)
+* [@NodebotsGT](https://twitter.com/NodebotsGT)
+
 ## Honduras
 
 ## México
