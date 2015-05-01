@@ -8,6 +8,7 @@
 
 ## Bolivia
 * [BoliviaJS](http://boliviajs.github.io) Comunidad JS Bolivia
+
 ## Chile
 * [StarTechConf](http://www.startechconf.com/)  [@startechconf](https://twitter.com/startechconf)
 * [JS Meetup](http://www.meetup.com/dynlangchile/events/221341220/)
