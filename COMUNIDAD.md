@@ -7,7 +7,7 @@
 * [Beer.js Buenos Aires](https://www.meetup.com/Beer-js-Buenos-Aires/) Dónde se encuentra la cerveza con JavaScript
 
 ## Bolivia
-
+* [BoliviaJS](http://boliviajs.github.io) Comunidad JS Bolivia
 ## Chile
 * [StarTechConf](http://www.startechconf.com/)  [@startechconf](https://twitter.com/startechconf)
 * [JS Meetup](http://www.meetup.com/dynlangchile/events/221341220/)
