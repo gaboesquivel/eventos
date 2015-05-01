@@ -6,6 +6,9 @@
 * [BAFrontend](https://www.meetup.com/BAFrontend/) Front-End User Group en Buenos Aires
 * [Beer.js Buenos Aires](https://www.meetup.com/Beer-js-Buenos-Aires/) Dónde se encuentra la cerveza con JavaScript
 
+## Brazil
+* [BrazilJS](http://braziljs.org/) Comunidade Brasileria de JS
+
 ## Bolivia
 * [BoliviaJS](http://boliviajs.github.io) Comunidad JS Bolivia
 
