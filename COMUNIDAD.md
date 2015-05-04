@@ -38,6 +38,8 @@
 
 ## México
 
+* [NodeBots México](http://www.meetup.com/NodeBotsMX/) [@NodeBotsmx](https://twitter.com/nodebotsmx) Comunidad de nodebots
+
 ## Nicaragua
 
 ## Panamá
