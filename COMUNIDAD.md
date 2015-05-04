@@ -5,6 +5,7 @@
 * [JSConf Argentina](https://www.jsconfar.com/) JSConf en Argentina
 * [BAFrontend](https://www.meetup.com/BAFrontend/) Front-End User Group en Buenos Aires
 * [Beer.js Buenos Aires](https://www.meetup.com/Beer-js-Buenos-Aires/) Dónde se encuentra la cerveza con JavaScript
+* [MeteorBA](https://www.meetup.com/Meteor-Buenos-Aires/) Meetup de Meteor en Buenos Aires
 
 ## Brazil
 * [BrazilJS](http://braziljs.org/) Comunidade Brasileria de JS
