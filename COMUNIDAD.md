@@ -23,6 +23,13 @@
 
 ## Colombia
 
+* [BogotaJS](http://bogotajs.com)
+* [MedellinJS](http://medellinjs.org)
+* [CaliJS](http://www.meetup.com/calijs/)
+* [PereiraJS](http://pereirajs.org/)
+* [PopayanJS](http://www.meetup.com/PopayanJS/)
+* [MonteriaJS](http://www.meetup.com/monteriajs/)
+
 ## Costa Rica
 
 ## Cuba
