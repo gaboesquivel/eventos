@@ -19,6 +19,7 @@
 * [JS Meetup](http://www.meetup.com/dynlangchile/events/221341220/)
 * [BeerJS](http://www.beerjs.cl/)
 * [hashtagchile](http://www.hashtagchile.com/) [@hashtagchile](https://twitter.com/hashtagchile)
+* [Noders.cl](http://noders.cl/) [@NodersCL](https://twitter.com/NodersCL)
 
 ## Colombia
 
