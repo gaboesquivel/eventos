@@ -31,6 +31,7 @@
 * [MonteriaJS](http://www.meetup.com/monteriajs/)
 
 ## Costa Rica
+* [CostaRicaJS](http://www.meetup.com/costaricajs/)
 
 ## Cuba
 
